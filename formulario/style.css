@@ -7,7 +7,7 @@
 body {
   background-image: url(fundo.gif);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 1000px;
   min-height: 100vh;
   display: grid;
   place-items: center;
